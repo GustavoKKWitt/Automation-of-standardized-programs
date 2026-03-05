@@ -42,7 +42,7 @@ automation-standardized-programs
 1. Clone the repository:
 
 ```
-git clone https://github.com/GustavoKKWitt/automation-standardized-programs.git
+git clone https://github.com/GustavoKKWitt/Automation-of-standardized-programs/tree/main
 ```
 
 2. Navigate to the project folder:
